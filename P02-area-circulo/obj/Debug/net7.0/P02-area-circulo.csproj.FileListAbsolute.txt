@@ -1,0 +1,15 @@
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.csproj.AssemblyReference.cache
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.AssemblyInfoInputs.cache
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.AssemblyInfo.cs
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.csproj.CoreCompileInputs.cache
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.exe
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.deps.json
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.runtimeconfig.json
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.dll
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\bin\Debug\net7.0\P02-area-circulo.pdb
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.dll
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\refint\P02-area-circulo.dll
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.pdb
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\P02-area-circulo.genruntimeconfig.cache
+C:\Users\soulu\OneDrive\Documentos\C#\P02-area-circulo\obj\Debug\net7.0\ref\P02-area-circulo.dll
